@@ -19,7 +19,7 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 - **Visual Separation:** The 2D scatter plot displays distinct, clear clustering among the three different wine classes.
 
 ### 📂 Repository Structure
-- `Untitled232.ipynb` (Jupyter Notebook containing the code)
+- `Edutech_Data_Science_Task11.ipynb` (Jupyter Notebook containing the code)
 - `Wine Data Visualization.png` (Saved scatter plot image)
 - `README.md` (Project explanation)
   
